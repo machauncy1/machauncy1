@@ -1,4 +1,4 @@
-# 你好，欢迎来到我的 GitHub 👋
+# About me 👋
 
 Chauncy Ma is a Senior Consultant/Developer at Realus Education, Inc. and has over 9 years of experience.
 
