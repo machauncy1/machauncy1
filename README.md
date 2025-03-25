@@ -1,6 +1,9 @@
 # 你好，欢迎来到我的 GitHub 👋
 
-我是一名前端开发人员，具备基本的后端开发能力。目前，我专注于使用 React、Vite 和其他前端技术开发高质量的 Web 应用。
+Chauncy Ma is a Senior Consultant/Developer at Realus Education, Inc. and has over 9 years of experience.
+He has worked with clients from different countries in the social media, real estate, and education industries. Based on a good understanding of user experience, he focuses mainly on front-end development. He has gained expertise in front-end architecture, front-end performance optimisation, responsive layout and web functionality implementation within an agile approach.
+He also has good back-end development experience and devops skills. Over the past year, he has been the lead developer on a team that has helped clients migrate back-end services and infrastructure using new technologies (e.g. Nodejs, redis, oauth2, terraform, k8s), optimised and refactored the front-end and back-end for issues, and written automated tests.
+During this project, he also explored the best practices of front-end microservices and learned the best practices and technical risks of front-end microservices in the context of current front-end technologies.
 
 ## 技术栈
 
