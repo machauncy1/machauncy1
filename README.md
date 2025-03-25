@@ -3,7 +3,9 @@
 Chauncy Ma is a Senior Consultant/Developer at Realus Education, Inc. and has over 9 years of experience.
 
 He has worked with clients from different countries in the social media, real estate, and education industries. Based on a good understanding of user experience, he focuses mainly on front-end development. He has gained expertise in front-end architecture, front-end performance optimisation, responsive layout and web functionality implementation within an agile approach.
+
 He also has good back-end development experience and devops skills. Over the past year, he has been the lead developer on a team that has helped clients migrate back-end services and infrastructure using new technologies (e.g. Nodejs, redis, oauth2, terraform, k8s), optimised and refactored the front-end and back-end for issues, and written automated tests.
+
 During this project, he also explored the best practices of front-end microservices and learned the best practices and technical risks of front-end microservices in the context of current front-end technologies.
 
 ## 技术栈
