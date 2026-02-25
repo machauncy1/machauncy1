@@ -1,6 +1,6 @@
 # About me
 
-Chauncy Ma is a Senior Consultant/Developer at Realus Education, Inc. and has over 9 years of experience.
+Chauncy is a Senior Consultant/Developer at Realus Education, Inc. and has over 9 years of experience.
 
 He has worked with clients from different countries in the social media, real estate, and education industries. Based on a good understanding of user experience, he focuses mainly on front-end development. He has gained expertise in front-end architecture, front-end performance optimisation, responsive layout and web functionality implementation within an agile approach.
 
